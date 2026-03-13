@@ -1,5 +1,5 @@
-# Java Basics – Day 1
-
+<details>
+<summary>📅 Day 1 – Java Basics</summary>
 ## 1. Java Program Structure
 
 Important rules for a basic Java program:
@@ -251,3 +251,5 @@ This reflects Java’s **object-oriented design**, where behavior is accessed th
 - Constructors
 - `this` keyword
 - OOP principles
+
+</details>
