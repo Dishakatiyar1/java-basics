@@ -232,6 +232,22 @@ Call the println() method on the out object
 
 This reflects Java’s **object-oriented design**, where behavior is accessed through objects.
 
+# Extras: 
+- Go to System class
+- Use its static PrintStream object out
+- Call println() method on it
+
+```
+One thing most beginners don't realize: 
+- out is still an object.
+- You just didn't create it. The System class already created it for you.
+
+Internallay Something Like: 
+class System {
+    public static PrintStream out = new PrintStream();
+}
+```
+
 ---
 
 # Key Takeaways
