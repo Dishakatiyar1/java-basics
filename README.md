@@ -42,14 +42,7 @@ Topics covered:
 </details>
 
 <details>
-<summary>📅 Day 2 – Classes and Objects</summary>
-
-Topics covered:
-
-- Class
-- Object
-- Constructor
-- this keyword
+<summary>📅 Day 2 – OOPs Concepts</summary>
 
 👉 [Read Full Notes](./day02-classes-objects/README.md)
 
