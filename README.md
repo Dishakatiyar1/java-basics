@@ -20,6 +20,10 @@ Learning Java step by step with daily notes and examples.
 | Day 10 | Multithreading     | ⬜ Pending     |
 
 ---
+## Resources
+👉 (https://github.com/RameshMF/Java-Free-Resources-By-JavaGuides/blob/master/OOPS%20Concepts%20in%20Java%20PDF%20Download.pdf
+)
+
 
 ## 📚 Notes
 
